@@ -1,5 +1,9 @@
 # **brush.line**
 
+<p align="center">
+  <img src="https://lottie.host/43f43646-b018-4d72-a96b-02a929cd9727/gARxdIetbE.svg" alt="dotLottie Web" width="550" />
+</p>
+
 Atelier de creative coding par Nicolas Tilly
 
 Intervention le 3 juin 2026 avec les DNMADe 2 Design interactif spé CREATIVE CODING à Gobelins.
