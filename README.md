@@ -1,7 +1,7 @@
 # **brush.line**
 
 <p align="center">
-  <img src="https://lottie.host/43f43646-b018-4d72-a96b-02a929cd9727/gARxdIetbE.svg" alt="dotLottie Web" width="550" />
+  <img src="https://raw.githubusercontent.com/nicolastilly/lottie-anim-loader/refs/heads/master/animation.json" alt="dotLottie Web" width="550" />
 </p>
 
 Atelier de creative coding par Nicolas Tilly
