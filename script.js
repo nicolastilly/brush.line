@@ -15,10 +15,12 @@ function setup() {
   brush.line(100, 100, 400, 300);
 }
 
+
 // La fonction draw est appelée en boucle (utile pour animer)
 // Pour l'instant on la laisse vide : tout se passe dans setup()
 function draw() {
 }
+
 
 // Garde le dessin plein écran si vous redimensionnez la fenêtre
 function windowResized() {
